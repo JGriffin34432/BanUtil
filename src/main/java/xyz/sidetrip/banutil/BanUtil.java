@@ -105,7 +105,7 @@ public class BanUtil implements Runnable {
     @EventSubscriber
     public void onLoginEvent(ShardReadyEvent event) throws InterruptedException{
         IDiscordClient client = event.getClient();
-        client.changePlayingText("Grand Theft Auto V");
+        client.changePlayingText("Fortnite");
         checkBot();
     }
 
