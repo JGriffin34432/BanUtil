@@ -65,7 +65,7 @@ public class BanUtil implements Runnable {
             " | |_) / ____ \\| |\\  | |__| |  | |   _| |_| |____ ",
             " |____/_/    \\_\\_| \\_|\\____/   |_|  |_____|______|",
             "                                                  ",
-            "   ---------- Ban them, ban them all! ----------  ",
+            "   ---------- Hosted by JoshTheGamer632#0017 for the Hoodini-Aflac Gaming discord server. Invite to the server: http://disco.gg/HoodiniAflacGaming ----------  ",
             "   [Version = " + VERSION + "]\n");
 
     public static final int CONFIG_RECHECK_TIMEOUT = 10000;
