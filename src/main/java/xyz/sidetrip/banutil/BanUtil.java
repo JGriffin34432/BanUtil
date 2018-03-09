@@ -105,7 +105,7 @@ public class BanUtil implements Runnable {
     @EventSubscriber
     public void onLoginEvent(ShardReadyEvent event) throws InterruptedException{
         IDiscordClient client = event.getClient();
-        client.changePlayingText("DOJRP | Grand Theft Auto V");
+        client.changePlayingText("with the ban hammer 🔨.");
         checkBot();
     }
 
